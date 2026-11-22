@@ -61,9 +61,7 @@ Managing multiple local Node.js, Python, or PHP services on a Linux workstation 
 
 🔒 **Proprietary Software Asset (All Rights Reserved)**: This repository serves as a functional and architectural showcase within the Professional Portfolio (https://antoniangeloflore.com — **note:** *video pitches are currently in Italian; both the portfolio portal and B2B technical delivery are available in English*). For operational security and NDA compliance, the source code and internal packaging are not publicly exposed.
 
-🤝 **Custom B2B Automation & Collaboration:** Available for custom backend/ETL architecture, asynchronous B2B tooling, and white-label licensing (zero-call workflow).
-* **Portfolio & Technical Video Pitches** *(note: portal and video demos are currently in Italian — full English B2B communication & delivery)*: [https://antoniangeloflore.com](https://antoniangeloflore.com)
-* **Connect on LinkedIn:** [LinkedIn](https://www.linkedin.com/in/antoniangelo-f-30003622/).
+🤝 **Custom B2B Pipelines & White-Label Inquiries:** Available for custom ETL/outreach automation, white-label SaaS licensing, and asynchronous technical consultations (no calls required). Connect via [antoniangeloflore.com](https://antoniangeloflore.com) or [LinkedIn](https://www.linkedin.com/in/antoniangelo-f-30003622/).
 
 ---
 
